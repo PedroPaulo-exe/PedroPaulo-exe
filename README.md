@@ -38,20 +38,6 @@ Estou sempre evoluindo como desenvolvedor, buscando melhorar minhas habilidades 
 
 <img 
     align="left" 
-    alt="C#" 
-    title="C#" 
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
-/>
-<img 
-    align="left" 
-    alt=".NET" 
-    title=".NET" 
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Java" 
     title="Java" 
     width="30px" 
@@ -98,13 +84,6 @@ Estou sempre evoluindo como desenvolvedor, buscando melhorar minhas habilidades 
     title="PostgreSQL" 
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL" 
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
 />
 <img 
     align="left" 
