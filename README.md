@@ -1,12 +1,10 @@
-# 💻 Pedro Paulo Rodrigues Cardoso
+# 💻 Pedro Paulo
 
-**`Full Stack Developer (.NET & Java)`**
+**`Desenvolvedor Back-end | .NET & Java`**
 
-Me chamo Pedro Paulo, tenho 19 anos. Atualmente curso Ciência da Computação no UDF Centro Universitário e atuo como desenvolvedor back-end.
+Desenvolvedor back-end em formação em Ciência da Computação (UDF), com experiência em C#/.NET, APIs REST e bancos de dados. Comecei com JavaScript e Node.js e hoje foco na construção de sistemas escaláveis e robustos.
 
-Iniciei minha jornada com JavaScript e Node.js, desenvolvendo aplicações web e APIs REST. Hoje trabalho com o ecossistema .NET, focado na construção e manutenção de sistemas escaláveis, integração com bancos de dados e desenvolvimento de aplicações robustas.
-
-Estou sempre evoluindo como desenvolvedor, buscando melhorar minhas habilidades e construir soluções cada vez mais eficientes 🚀
+Sempre em evolução, buscando soluções mais limpas e eficientes 🚀
 
 <p align="left">
     <a href="https://github.com/PedroPaulo-exe">
