@@ -101,13 +101,4 @@ Sempre em evolução, buscando soluções mais limpas e eficientes 🚀
 <br/>
 
 
-
-
-<img 
-      align="left" 
-      alt="Top Langs" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPaulo-exe&theme=tokyonight&layout=compact&langs_count=8" 
-  />
-
 </p>
