@@ -1,6 +1,6 @@
 # 💻 Pedro Paulo
 
-**`Desenvolvedor Back-end | .NET & Java`**
+**`Desenvolvedor Back-end | Java`**
 
 Desenvolvedor back-end em formação em Ciência da Computação (UDF), com experiência em C#/.NET, APIs REST e bancos de dados. Comecei com JavaScript e Node.js e hoje foco na construção de sistemas escaláveis e robustos.
 
