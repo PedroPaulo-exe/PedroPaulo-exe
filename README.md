@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25&height=200&section=header&text=Pedro%20Paulo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Back-end%20%7C%20Java&descSize=20&descAlignY=58" width="100%" alt="Header" />
 
 <div align="center">
 
@@ -95,5 +94,3 @@ Sempre em evolução, buscando soluções mais limpas e eficientes 🚀
 ⭐ Se curtiu algum projeto, deixa uma estrela por lá!
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25&height=120&section=footer" width="100%" alt="Footer" />
